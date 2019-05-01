@@ -1,2 +1,2 @@
 # Gusto-cukrus
-SMano vaiko cukrus
+Mano vaiko cukrus
